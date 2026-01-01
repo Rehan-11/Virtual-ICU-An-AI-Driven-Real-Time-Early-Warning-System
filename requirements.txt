@@ -1,0 +1,59 @@
+# Virtual ICU (vICU) System - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# ==================== Core Data Science ====================
+pandas==2.0.3
+numpy==1.24.3
+scikit-learn==1.3.0
+
+# ==================== Visualization ====================
+streamlit==1.31.1
+plotly==5.17.0
+matplotlib==3.7.2
+seaborn==0.13.0
+
+# ==================== UI & Navigation ====================
+streamlit-option-menu==0.3.6
+
+# ==================== Model Serialization ====================
+pickle-mixin==1.0.0
+
+# ==================== Utilities ====================
+python-dateutil==2.8.2
+pytz==2023.3
+
+# ==================== Optional (Advanced Features) ===================
+# Uncomment if implementing additional features:
+
+# For InfluxDB time-series database integration
+influxdb-client==1.36.0
+
+# For MQTT IoT sensor integration
+# paho-mqtt==1.6.1
+
+# For Kafka streaming
+# kafka-python==2.0.2
+
+# For PostgreSQL database connection
+# psycopg2-binary==2.9.9
+
+# For API development (FastAPI)
+# fastapi==0.104.1
+# uvicorn==0.24.0
+
+# For deep learning (TensorFlow alternative to Keras)
+tensorflow==2.14.0
+
+# For Explainable AI
+# lime==0.2.0
+# shap==0.42.1
+
+# For hyperparameter optimization
+ optuna==3.14.0
+ hyperopt==0.2.7
+
+# ==================== Development & Testing ====================
+# pytest==7.4.3
+# pytest-cov==4.1.0
+# black==23.11.0
+# flake8==6.1.0

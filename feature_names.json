@@ -1,0 +1,1 @@
+["temperature", "heart_rate", "respiratory_rate", "spo2", "systolic_bp", "news2_score", "qsofa_score", "sirs_count", "shock_index", "temp_trend", "hr_trend", "rr_trend", "spo2_trend", "sbp_trend", "temp_ma", "hr_ma", "rr_ma", "spo2_ma", "sbp_ma", "temp_delta", "hr_delta", "spo2_delta"]
